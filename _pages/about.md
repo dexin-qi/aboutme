@@ -8,11 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate admitted directly after bachelor's degree at Xi'an Jiaotong University. My research interests include:
-- Visual Reconstruction
-- LiDAR SLAM: Including 2D mapping and localization for planar robots using LiDAR, and tightly-coupled LiDAR-inertial odometry using multi-beam LiDAR.
+
+I am a fourth-year PhD candidate admitted directly after bachelor's at [Xi'an Jiaotong University](https://www.xjtu.edu.cn). My research interests include:
+
+- 3D Reconstruction 
+- LiDAR SLAM for 2D mapping/localization of planar robots and visual-inertial odometry using 3D LiDAR
 - NeRF (Neural Radiance Fields): Generating photo-realistic rendering of scenes using multi-view images for autonomous driving simulators.
-In summary, my research focuses on the intersection of robotics, computer vision and deep learning. Through my PhD research, I have gained solid experience in LiDAR-based localization and mapping, visual SLAM, and neural rendering. I am proficient in C++, Python and commonly used robotics and vision libraries. 
+
+I like bringing ideas to life - my favorite projects are a touchless smart switch and biking navigation assistant using platforms like ESP32, Arduino and STM32. In college, I participated in the VEX Robotics Competition, and our team won national and Asian regional championships to compete at the world championship. For my undergraduate project, I built a computer vision-based trash can that could automatically catch thrown items, sparking my interest in Computer Vision. 
+
+The VEX experience taught me to document engineering work - currently Obsidian is my preferred note-taking software. I developed and open-sourced a plugin: [Sync Calendar](https://github.com/dexin-qi/obsidian-sync-calendar) to manage events from Google Calendar in like tasks in Obsidian.
+
+In my spare time, I enjoy playing games like Mario Kart, Horizon Forbidden West, and Zelda, along with watching shows like Breaking Bad, Game of Thrones, and Stranger Things. These hobbies help me relax outside of research. 
+
+Overall, I aim to balance research with hobbies and apply my skills towards creating meaningful technologies. 
+
 <!-- My goal is to develop reliable perception algorithms for autonomous systems.  -->
 
 
